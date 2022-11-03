@@ -1,0 +1,18 @@
+body{
+    color:greenyellow;
+    background-color:black;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul{
+    display:flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px
+}
+
+a{color:greenyellow;
+    text-decoration: none;
+}
